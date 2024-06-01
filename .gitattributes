@@ -1,0 +1,8 @@
+v filter=lfs diff=lfs merge=lfs -text
+模型 filter=lfs diff=lfs merge=lfs -text
+CMABSTdata filter=lfs diff=lfs merge=lfs -text
+CMABSTdata.rar filter=lfs diff=lfs merge=lfs -text
+data_preprocessing filter=lfs diff=lfs merge=lfs -text
+era_Interim filter=lfs diff=lfs merge=lfs -text
+era_Interim.rar filter=lfs diff=lfs merge=lfs -text
+u filter=lfs diff=lfs merge=lfs -text
